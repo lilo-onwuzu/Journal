@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script type="text/javascript" src="./js/journal.js"></script>
+    <title>Journal Entries</title>
+  </head>
+  <body>
+    <form id="journal">
+      <label for="title">Title:</label>
+      <input type="text" name="title" id="title"><br>
+      <label for="entry">Journal Entry:</label>
+      <textarea name="entry" rows="8" cols="40" id="entry"></textarea><br>
+      <button type="submit" name="button">Journal</button>
+    </form>
+    <div class="result">
+      <p><span id="result"></span></p>
+    </div>
+  </body>
+</html>
