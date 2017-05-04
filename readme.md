@@ -5,7 +5,7 @@
 	Lilo Onwuzu 
 	
 #### _Date_
-	05.24.2016
+	05.23.2016
 
 #### _Description_
 	This site allows you to make journal entries 
