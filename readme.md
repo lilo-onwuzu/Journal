@@ -1,5 +1,5 @@
 ## _Title_
-	Epicodus- JavaScript - Alarm Clock
+	Epicodus- JavaScript - Journal
 	
 #### _Creator_
 	Lilo Onwuzu 
@@ -8,10 +8,9 @@
 	05.24.2016
 
 #### _Description_
-	This site implements an alarm clock or timer. Tells time through the moment package installed through node/npm.
-	Set alarm time, snooze for 5-10 mins. 
+	This site allows you to make journal entries 
 	It is built with a html & js.
-	The js back-end is written in an object oriented form with alarm as the object/construct so multiple alarms can be set.
+	The js back-end is written in an object oriented form with journal as the object/construct.
 	All js code (band-end and front-end) is built in a modular form for simplicity during development.
 	We will need some dependendencies - programs that will concatenate all our js code and package it into one file.
 	A tool, Node Package Manager(npm) will help us install our back-end dependencies (e.g moment).
